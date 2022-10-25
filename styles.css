@@ -126,12 +126,10 @@ body {
         font-size: 16px;
         line-height: 20px;
         display: flex;
-        align-items: center;
         text-align: center;
         letter-spacing: 0.06em;
         color: #FFFFFF;
-        background-color: #2196F3;
-        padding-left: 40px;
+        padding-left: 30px;
         padding-top: -20px;
 
 
@@ -499,4 +497,77 @@ display: flex;
     text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
+}
+
+
+.bottom1 {
+    position: absolute;
+        width: 145px;
+        height: 31px;
+        left: 215px;
+        top: 2154px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+        color: #2196F3;
+}
+.bottom2 {
+        position: absolute;
+            width: 145px;
+            height: 31px;
+            left: 270px;
+            top: 2154px;
+            font-family: 'Raleway';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            line-height: 31px;
+            letter-spacing: 0.03em;
+            color: #f9f9fa;
+}
+.bottom3 {
+    position: absolute;
+        width: 231px;
+        height: 21px;
+        left: 215px;
+        top: 2205px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+}
+
+.bottom4 {
+    position: absolute;
+        width: 136px;
+        height: 21px;
+        left: 215px;
+        top: 2235px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        color: rgba(255, 255, 255, 0.6);
+}
+.bottom5 {
+    position: absolute;
+        width: 231px;
+        height: 21px;
+        left: 215px;
+        top: 2265px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        color: rgba(255, 255, 255, 0.6);
 }
